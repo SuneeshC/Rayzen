@@ -1,0 +1,175 @@
+.nav-first
+{
+    background-color: #000000;
+    color: #888888;
+   width: 100%;
+    flex-wrap: wrap;
+    position:fixed;
+    
+}
+.nav-content:hover
+{
+    color: white;
+}
+table
+{
+    width: 100%;
+    padding: 10px;
+}
+body
+{
+   background-color: #555555;
+    margin: 0;
+    padding: 0;
+}
+.head1
+{
+    color: white;
+    text-align: center;
+}
+.easter
+{
+    color: white;
+    text-align: center;
+    background-image: url(easter-2023-homepage-desktop.jpg);  
+    background-repeat: no-repeat;
+    background-size:auto;
+    height: 700px;
+    background-position: center center;
+
+}
+.easter-div
+{
+    width: 100%;
+    position: absolute;
+    margin-top: 30px;
+}
+.blade
+{
+    background-image: url(razer-blade-16-homepage-desktop.jpg);
+}
+.blade18
+{
+    background-image: url(razer-blade-18-homepage-desktop.jpg);
+}
+
+.two-colums
+{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    margin-left: -10px;
+   color: white;
+  
+    
+   
+}
+.div-images
+{
+    height: 80vh;
+    width: 49.5%;
+    margin-top: 10px;
+    display: flex;
+    flex-direction: column;
+     background-attachment: scroll;
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
+    
+  
+  
+   
+}
+.one
+{
+    background-image: url(razer-basilisk-v3-x-hyperspeed-b-950x580-desktop.jpg);
+}
+.two
+{
+    background-image: url(enkipro-lamborghini-b-950x580-desktop.jpg);
+     align-items: center;
+    align-content: center;
+    align-items: center;
+}
+.three
+{
+    background-image: url(razer-blade-15-2023-b-950x580-desktop.jpg);
+}
+.four
+{
+    background-image: url(razer-meta-quest-2-vr-b-950x580-desktop.jpg);
+}
+.five
+{
+    background-image: url(razer-edge-b-950x580-desktop.jpg);
+     align-items: center;
+    align-content: center;
+    align-items: center;
+}
+.six
+{
+    background-image: url(razerstore-rewards-join-now-b-950x580-desktop.jpg);
+}
+.yellow
+{
+    background-color: #ee9f0b;
+    height: 50px;
+    width: 100px;
+    color: black;
+    position: relative;
+    margin-top: 10px;
+}
+.img-head
+{
+    padding-top: 40px;
+    
+}
+.img-head2
+{
+    margin-top: -10px;
+}
+footer
+{
+    padding-top: 30px;
+    height: 500px;
+    width: 100%;
+    display: flex;
+    font-size: 15px;
+    background-color: black;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+.foot-head,.foot-li,.foot-ul
+{
+    list-style-type: none;
+}
+.foot-head,.foot-li
+{
+    padding: 8px;
+    font-weight: 700;
+}
+.foot-head
+{
+    color: white;
+}
+.foot-li
+{
+    color:   #888888;
+}
+.foot-li:hover
+{
+    color:   white;
+    cursor:pointer;
+    text-decoration: underline;
+}
+.foot-h1
+{
+    color: #10ca2f;
+}
+.final-ul,.foot-final-ul
+{
+  color: #10ca2f; 
+    list-style: none;
+}
+
